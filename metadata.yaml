@@ -3,5 +3,3 @@ documentation: "https://github.com/kalamell/dct-tracking"
 versions:
   - sha: 212bff46e072a20ecdc6df0051c3d4ee96368c39
     changeNotes: Add code.
-  - sha: 98795adf26880efd9d00bc6c8809c35b59907381
-    changeNotes: Initial release.
