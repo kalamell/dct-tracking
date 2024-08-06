@@ -1,5 +1,9 @@
 homepage: "https://www.dentsucreative.com/"
 documentation: "https://github.com/kalamell/dct-tracking"
 versions:
-  - sha: 212bff46e072a20ecdc6df0051c3d4ee96368c39
-    changeNotes: Add code.
+  - sha: c29a4a40334f2010569da35c0984c742c96fabaf
+    changeNotes: fix
+  - sha: 67bb3bc68fa6d89b6fade865520b070533046873
+    changeNotes: add code
+  - sha: 98795adf26880efd9d00bc6c8809c35b59907381
+    changeNotes: add template
